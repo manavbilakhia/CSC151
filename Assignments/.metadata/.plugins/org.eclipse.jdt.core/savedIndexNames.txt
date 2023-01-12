@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Manav Data\college\Courses\CSC151\Assignments\.metadata\.plugins\org.eclipse.jdt.core
+1544563172.index
+4113461066.index
+4277822760.index
+1751373001.index
+980052964.index
+1224788183.index
+3623755221.index
+1865797976.index
+3612948779.index
+3172955583.index
+2756526117.index
+585209351.index
+914532811.index
+2421501538.index
+3442186810.index
+3163577978.index
+2680803084.index
+4000961781.index
+934612959.index
